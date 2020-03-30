@@ -11,3 +11,11 @@ A couple of great places for reference:
 
  - [https://www.idmod.org/docs/hiv/model-seir.html](https://www.idmod.org/docs/hiv/model-seir.html) for an explanation on the model
  - [https://github.com/alsnhll/SEIR_COVID19](https://github.com/alsnhll/SEIR_COVID19) for an accurate model and far more detail
+
+## Outputs
+
+**No Lock-Down**
+![Normal Transmission](./no_lockdown.png "No Lock-Down")
+
+**Lock-Down then no intervention**
+![Lock-Down](./lockdown.png "Lock-Down")
