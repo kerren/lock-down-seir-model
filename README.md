@@ -23,3 +23,17 @@ A couple of great places for reference:
 
 
 ![Lock-Down](./lock_down.png "Lock-Down")
+
+
+**Lock-down and Intervention**
+
+Assuming our behaviour changes after the lock-down  we may be able to flatten the curve. I've got graphs for different reproduction rates:
+
+_R = 0.9_
+![R = 0.9](./R0.9.png "R = 0.9")
+
+_R = 0.7_
+![R = 0.7](./R0.7.png "R = 0.7")
+
+_R = 0.5_
+![R = 0.5](./R0.5.png "R = 0.5")
