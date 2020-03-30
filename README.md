@@ -15,7 +15,11 @@ A couple of great places for reference:
 ## Outputs
 
 **No Lock-Down**
-![Normal Transmission](./no_lockdown.png "No Lock-Down")
+
+
+![Normal Transmission](./no_lock_down.png "No Lock-Down")
 
 **Lock-Down then no intervention**
-![Lock-Down](./lockdown.png "Lock-Down")
+
+
+![Lock-Down](./lock_down.png "Lock-Down")
